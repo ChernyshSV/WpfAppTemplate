@@ -1,0 +1,25 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=System.Runtime">
+    <!-- Main window -->
+    <v:String x:Key="appTitle">App Title</v:String>
+    <v:String x:Key="cancel">Cancel</v:String>
+    <v:String x:Key="file">File</v:String>
+    <v:String x:Key="selectAll">Select All</v:String>
+    <v:String x:Key="unselectAll">Unselect All</v:String>
+    <v:String x:Key="open">Open</v:String>
+    <v:String x:Key="loadFile">Load File</v:String>
+    <v:String x:Key="openDirectory">Open directory</v:String>
+    <v:String x:Key="saveToEcxel">Save to Excel file</v:String>
+    <v:String x:Key="settings">Settings</v:String>
+    <v:String x:Key="theme">Theme</v:String>
+    <v:String x:Key="liteTheme">Light</v:String>
+    <v:String x:Key="darkTheme">Dark</v:String>
+    <v:String x:Key="language">Language</v:String>
+    <v:String x:Key="enLanguage">English</v:String>
+    <v:String x:Key="uaLanguage">Українська</v:String>
+    <v:String x:Key="search">Search</v:String>
+    <v:String x:Key="tablHeader1">Tab 1</v:String>
+    <v:String x:Key="tablHeader2">Tab 2</v:String>
+    <v:String x:Key="tablHeader3">Tab 3</v:String>
+</ResourceDictionary>

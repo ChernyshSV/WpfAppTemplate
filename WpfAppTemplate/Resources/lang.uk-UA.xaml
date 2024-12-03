@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=System.Runtime">
+    <!-- Main window -->
+    <v:String x:Key="appTitle">App Title</v:String>
+    <v:String x:Key="cancel">Відмінити</v:String>
+    <v:String x:Key="file">Файл</v:String>
+    <v:String x:Key="selectAll">Вибрати все</v:String>
+    <v:String x:Key="unselectAll">Зняти виділення</v:String>
+    <v:String x:Key="open">Відкрити</v:String>
+    <v:String x:Key="loadFile">Завантажити</v:String>
+    <v:String x:Key="openDirectory">Відкрити папку з даними</v:String>
+    <v:String x:Key="saveToEcxel">Зберегти в Excel файл</v:String>
+    <v:String x:Key="settings">Налаштування</v:String>
+    <v:String x:Key="theme">Тема</v:String>
+    <v:String x:Key="liteTheme">Світла</v:String>
+    <v:String x:Key="darkTheme">Темна</v:String>
+    <v:String x:Key="language">Мова</v:String>
+    <v:String x:Key="enLanguage">English</v:String>
+    <v:String x:Key="uaLanguage">Українська</v:String>
+    <v:String x:Key="search">Пошук</v:String>
+</ResourceDictionary>
